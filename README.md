@@ -2,6 +2,8 @@
 
 A Python application that visualizes network routes using traceroute and displays them on an interactive map. The application provides a graphical user interface to trace routes to any domain or IP address and shows the path on a world map.
 
+<img src="/screenshots/screenshot-1" width="400" height="400">
+
 ## Features
 
 - Interactive GUI for entering target domains or IP addresses
