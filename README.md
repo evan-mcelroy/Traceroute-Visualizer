@@ -7,6 +7,7 @@ A Python application that visualizes network routes using traceroute and display
 ## Features
 
 <img src="/screenshots/screenshot-1.png" width="450" height="400">
+
 - Interactive GUI for entering target domains or IP addresses
 - Real-time progress tracking with a progress bar
 - Console log showing detailed traceroute information
