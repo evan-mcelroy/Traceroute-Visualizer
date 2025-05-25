@@ -25,6 +25,9 @@ A Python application that visualizes network routes using traceroute and display
 ## Installation
 
 1. Clone this repository or download the source code
+   ```bash
+   git clone https://github.com/evan-mcelroy/Traceroute-Visualizer.git
+   ```
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
